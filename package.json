@@ -1,0 +1,14 @@
+{
+  "name": "shadow-npm-three-example",
+  "version": "1.0.0",
+  "description": "Three.js app to Demo using shadow-cljs ES Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.152.2"
+  }
+}
