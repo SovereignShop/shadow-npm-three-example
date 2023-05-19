@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.23.3"
   }
 }
